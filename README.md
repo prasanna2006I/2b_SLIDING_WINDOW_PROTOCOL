@@ -9,7 +9,7 @@
 6. Stop the Program
 ## PROGRAM
 CLIENT:
-'''
+```
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -28,7 +28,7 @@ while True:
         if ack:
             print(ack)
             i+=5
-'''
+```
 
 SERVER:
 ```
