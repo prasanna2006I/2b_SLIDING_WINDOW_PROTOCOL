@@ -1,5 +1,8 @@
-# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM
+# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL.
+# NAME:PRASANNA I
+# REG NO:212223220079
+## AIM:
+To write a program for implementation of sliding window program.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
